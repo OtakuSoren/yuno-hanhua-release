@@ -1,0 +1,3 @@
+# Large binary installer — distribute via GitHub "Releases" (asset upload),
+# not tracked in git history (GitHub blocks any git object over 100MB).
+*.zip
