@@ -9,12 +9,12 @@
 ## 下載
 
 安裝包放在本專案的 **Releases** 頁面（檔案較大，不放在一般的程式碼版本控制裡），
-從右側 Releases 欄位下載 `YU-NO_正楷漢化_一鍵安裝.zip`。
+從右側 Releases 欄位下載 `YU-NO_ZhengkaiHanhua_Installer.zip`。
 
 ## 安裝方式
 
 1. Steam 資料庫右鍵 YU-NO → 內容 → 語言，切換成「日文」，等待下載/驗證完成
-2. 解壓縮 `YU-NO_正楷漢化_一鍵安裝.zip`
+2. 解壓縮 `YU-NO_ZhengkaiHanhua_Installer.zip`
 3. 把解壓縮出來的所有檔案複製到 YU-NO 遊戲安裝目錄（跟 `Game.exe` 同一層）
 4. 雙擊執行「一鍵安裝.bat」，依畫面指示確認即可
 
